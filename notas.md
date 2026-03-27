@@ -1,4 +1,4 @@
 # Notas de la funcionalidad
 
 - Nota 1: versión desde feature-notas.
-- Nota 2: añadida en feature.
+- Nota 2: cambio en feature
