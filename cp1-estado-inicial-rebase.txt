@@ -1,0 +1,7 @@
+Ramas:
+* feature-notas
+  main
+
+Historial:
+(pegar salida de git log --oneline --all)
+
