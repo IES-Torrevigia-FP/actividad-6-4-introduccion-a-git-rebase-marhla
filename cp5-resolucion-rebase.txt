@@ -1,0 +1,17 @@
+262e03e (HEAD -> main) rebase final combinado
+64cf8f5 (feature-notas) cambio en rama feature
+881658e Cambio en feature para conflicto
+707112a Modifica notas en feature-notas
+f250b5d Guarda cambios antes del rebase
+52032ee Añade notas iniciales de la funcionalidad
+4c50115 Actualiza changelog a v1.1
+e8d4683 Crea changelog con versión inicial
+85e2309 (origin/main, origin/HEAD) add deadline
+20f2714 Initial commit
+
+Explicación:
+He resuelto el conflicto editando el archivo notas.md y eliminando los marcadores de conflicto.
+
+Después he usado git add para marcarlo como resuelto y git rebase --continue para completar el proceso.
+
+Usaría git rebase --abort si quisiera cancelar el rebase y volver al estado anterior.

@@ -1,0 +1,27 @@
+rebase interactivo en progreso; sobre 64cf8f5
+Los últimos comandos realizados (2 comandos realizados):
+   pick 73998f7 Crea notas en main
+   pick a69b686 Cambio en main para provocar conflicto
+No quedan más comandos.
+Estás aplicando un rebase de la rama 'main' sobre '64cf8f5.
+  (corrige los conflictos y ejecuta "git rebase --continue")
+  (usa "git rebase --skip" para omitir este parche)
+  (usa "git rebase --abort" para volver a tu rama original)
+
+Rutas no fusionadas:
+  (usa "git restore --staged <archivo>..." para sacar del área de stage)
+  (usa "git add <archivo>..." para marcar una resolución)
+	modificados por ambos:  notas.md
+
+
+
+
+# Notas de la funcionalidad
+
+<<<<<<< HEAD
+- Nota 1: versión desde feature-notas.
+- Nota 2: version final sin conflicto
+=======
+- Nota 1: versión desde feature-notas.
+>>>>>>> feature-notas    
+
