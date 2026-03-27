@@ -1,0 +1,7 @@
+Historial después del rebase:
+(pegar salida de git log --oneline --all)
+
+Explicación:
+Después del rebase, los commits de feature-notas se han reaplicado encima de los commits de main.
+
+El historial ahora es lineal, sin bifurcaciones como ocurre con merge.
