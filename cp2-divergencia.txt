@@ -1,0 +1,9 @@
+Historial:
+(pegar salida de git log --oneline --all)
+
+Descripción:
+La rama main tiene un commit adicional con la actualización del changelog (v1.1).
+
+La rama feature-notas tiene un commit propio donde se añade el archivo notas.md.
+
+Ambas ramas han divergido porque tienen cambios distintos.
